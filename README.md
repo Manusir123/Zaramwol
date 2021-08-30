@@ -8,11 +8,11 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Raashii"><img title="Raashii" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Raashii"><img title="Manu" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Raashii">Raashii</a> to make it public
+Project created by <a href="https://github.com/Manu">Manu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,13 +22,13 @@ Project created by <a href="https://github.com/Raashii">Raashii</a> to make it p
 ----
 
   <p align="center">
-  <a href="https://github.com/Jokerser-x-Raashii/Zaramwol ">
-    <img src="https://img.shields.io/github/repo-size/Jokerser-x-Raashii/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/Manusir123/Zaramwol ">
+    <img src="https://img.shields.io/github/repo-size/Manusir123/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/Jokerser-x-Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jokerser-x-Raashii?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jokerser-x-Raashii/Zaramwol?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/Manusir123/followers"><img title="Followers" src="https://img.shields.io/github/followers/Manusir123?color=grey&style=plastic"></a>
+<a href="https://github.com/Manusir123/Zaramwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Manusir123/Zaramwol?color=grey&style=plastic"></a>
+<a href="https://github.com/Manusir123/Zaramwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Manusir123/Zaramwol?color=grey&style=plastic"></a>
+<a href="https://github.com/Manusir123/Zaramwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Manusir123/Zaramwol?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 
 ```
@@ -56,7 +56,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jokerser-x-Raashii/Zaramwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Manusir123/Zaramwol)
      </div>
 <br>
 <br >
@@ -70,7 +70,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/Manusir123/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -80,7 +80,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/Manusir123/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm i
