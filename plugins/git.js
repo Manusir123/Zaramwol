@@ -21,16 +21,15 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
  
 
-        *Github link        _https://tinyurl.com/yggyjfgf_*
+        
+*githublink       https://github.com/Manusir123/Zaramwol*
+*audio commads    https://github.com/Manusir123/Zaramwol/tree/master/uploads*
+*sticker commads  https://github.com/Manusir123/Zaramwol/master/uploads*
+
+ 
  
 
-       *Audio commads-1     _https://tinyurl.com/yfdkmuhd_*
- 
- 
-       *Audio commads-2     _https://tinyurl.com/yejp9qkh_*
-  
-  
-      *Sticker commads      _https://tinyurl.com/yejlp33d_*
+
 `}) 
 
 })); 
